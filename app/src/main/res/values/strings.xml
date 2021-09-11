@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="hint">메모를 입력하세요</string>
+    <string name="save">저장</string>
+    <string name="number">01</string>
+    <string name="memo">메모 내용 표시</string>
+    <string name="date">2021/01/01</string>
+    <string name="delete">삭제</string>
+</resources>
